@@ -1,0 +1,7 @@
+.references{max-width:980px}
+.refgroup{margin:0 0 3rem}
+.refgroup h2{font-size:clamp(1.65rem,3vw,2.35rem);padding-bottom:.55rem;border-bottom:3px solid var(--gold)}
+.refgroup ol{padding-left:1.6rem}
+.refgroup li{margin:0 0 1.1rem;padding-left:.35rem;overflow-wrap:anywhere}
+.refgroup a{color:var(--green);font-weight:bold;text-underline-offset:3px}
+.hc .refgroup a{color:#ff0}
